@@ -3,11 +3,11 @@ import React from "react";
 const Philosophy = () => {
   return (
     <div className="text-stone-950 font-normal h-fit pb-16 md:pb-36 md:rounded-t-[4rem] md:-mt-[4rem] bg-white">
-      <div className="text-[4rem] md:text-[8rem] py-9 md:py-36 px-6 md:px-32">
+      <div className="text-5xl sm:text-6xl md:text-[8rem] py-12 md:py-36 px-6 md:px-32">
         <h1 className="leading-none">Our</h1>
         <h1
           id="design"
-          className="text-[4.3rem] md:text-[8.5rem] leading-none tracking-wide"
+          className="text-6xl sm:text-7xl md:text-[8.5rem] leading-none tracking-wide"
         >
           philosophy
         </h1>

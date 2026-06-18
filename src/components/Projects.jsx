@@ -59,14 +59,14 @@ const Projects = () => {
   ];
 
   return (
-    <div className="bg-stone-950 text-white h-fit pt-2 md:pt-0 pb-0 md:pb-32 px-6 md:px-32 md:rounded-t-[4rem]">
-      <div className="text-5xl md:text-9xl py-14 md:py-28 font-light">
+    <div className="bg-stone-950 text-white h-fit pt-10 md:pt-0 pb-10 md:pb-32 px-6 md:px-32 md:rounded-t-[4rem]">
+      <div className="text-5xl sm:text-6xl md:text-9xl py-10 md:py-28 font-light">
         <div>Featured</div>
-        <div className="flex items-center md:items-end my-1">
-          <div className="h-14 md:h-28 w-20 md:w-40 rounded-full overflow-hidden">
+        <div className="flex flex-wrap items-center md:items-end my-1 gap-2">
+          <div className="h-10 sm:h-14 md:h-28 w-16 sm:w-20 md:w-40 rounded-full overflow-hidden">
             <video
               src="https://cdn.cuberto.com/cb/home/featured/header.mp4?2"
-              className=""
+              className="w-full h-full object-cover"
               loop
               autoPlay
               muted
@@ -76,7 +76,7 @@ const Projects = () => {
           <div>
             <span
               id="design"
-              className="font-normal tracking-wide text-[3.2rem] md:text-[8.5rem]"
+              className="font-normal tracking-wide text-[2.8rem] sm:text-[3.2rem] md:text-[8.5rem]"
             >
               &nbsp;projects
             </span>
