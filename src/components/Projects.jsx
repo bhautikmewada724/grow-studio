@@ -19,7 +19,7 @@ import photo6 from "../assets/photos/post 6_.png";
 import photo7 from "../assets/photos/post 7_.png";
 import photo8 from "../assets/photos/post 8_.png";
 import photo9 from "../assets/photos/post 10_.png";
->>>>>>> 360e3c2de242549c4631efc6ef887489d23ec03f
+
 
 // Numbered images 1
 import photo10 from "../assets/photos/172853.jpg.jpeg";
