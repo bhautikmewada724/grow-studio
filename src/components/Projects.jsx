@@ -2,6 +2,7 @@ import React from "react";
 import ProjectCard from "./ProjectCard";
 
 // Post images
+<<<<<<< HEAD
 import photo1 from "../assets/photos/255380.png";
 import photo2 from "../assets/photos/255381.png";
 import photo3 from "../assets/photos/255382.png";
@@ -10,6 +11,17 @@ import photo5 from "../assets/photos/255384.png";
 import photo6 from "../assets/photos/255377.png";
 import photo7 from "../assets/photos/255378.png";
 import photo8 from "../assets/photos/255379.png";
+=======
+import photo1 from "../assets/photos/post 1.png";
+import photo2 from "../assets/photos/post 2.png";
+import photo3 from "../assets/photos/post 3_.png";
+import photo4 from "../assets/photos/post 4_.png";
+import photo5 from "../assets/photos/post 5_.png";
+import photo6 from "../assets/photos/post 6_.png";
+import photo7 from "../assets/photos/post 7_.png";
+import photo8 from "../assets/photos/post 8_.png";
+import photo9 from "../assets/photos/post 10_.png";
+>>>>>>> 360e3c2de242549c4631efc6ef887489d23ec03f
 
 // Numbered images 1
 import photo10 from "../assets/photos/172853.jpg.jpeg";
