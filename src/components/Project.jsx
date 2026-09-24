@@ -10,6 +10,7 @@ import photo5 from "../assets/photos/255384.png";
 import photo6 from "../assets/photos/255377.png";
 import photo7 from "../assets/photos/255378.png";
 import photo8 from "../assets/photos/255379.png";
+import photo9 from "../assets/photos/post 1.png";
 
 // Numbered images 1
 import photo10 from "../assets/photos/172853.jpg.jpeg";
@@ -28,7 +29,7 @@ import photo20 from "../assets/photos/205330.jpg.jpeg";
 import photo21 from "../assets/photos/205331.jpg.jpeg";
 import photo22 from "../assets/photos/205332.jpg.jpeg";
 
-const Projects = () => {
+const Project = () => {
   const leftColumnProjects = [
     { url: photo1 },
     { url: photo2 },
