@@ -4,7 +4,7 @@ import Hero from "./components/Hero";
 import Reel from "./components/Reel";
 import Services from "./components/Services";
 import HowWeWork from "./components/HowWeWork";
-import Projects from "./components/Projects";
+import Project from "./components/Project";
 import Philosophy from "./components/Philosophy";
 import FollowUs from "./components/FollowUs";
 import SocialMediaLinks from "./components/SocialMediaLinks";
